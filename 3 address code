@@ -3,6 +3,7 @@
 
 char exprsn[20];
 char temp_var = 'Z';
+
 void main()
 {
 printf("Enter the expression: ");
