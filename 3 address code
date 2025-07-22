@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-char exprsn[20];
+char exprsn[20]; 
 char temp_var = 'Z';
 
 void main()
